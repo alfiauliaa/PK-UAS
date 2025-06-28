@@ -71,13 +71,3 @@ pip install -r requirements.txt
 4️⃣ Hasil evaluasi akan disimpan di `/data/eval/` sebagai file `.csv`.
 
 ---
-
-## 📧 Kontak
-
-**Nama:** [Nama Kamu]  
-**Email:** [Email Kamu]  
-**Repo:** [https://github.com/username/repo-fidusia-cbr](https://github.com/username/repo-fidusia-cbr)
-
----
-
-_Silakan disesuaikan dengan kebutuhan tugas & upload ke LMS!_
