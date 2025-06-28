@@ -1,0 +1,12 @@
+[
+  {
+    "query": "Terdakwa menyewakan kendaraan jaminan fidusia tanpa izin",
+    "ground_truth": ["Putusan MAHKAMAH AGUNG Nomor 3633 K/Pid.Sus/2022 ...", "..."],
+    "true_amar": "tolak"
+  },
+  {
+    "query": "Pengalihan objek fidusia tanpa persetujuan",
+    "ground_truth": ["Putusan MAHKAMAH AGUNG Nomor ..."],
+    "true_amar": "lain-lain"
+  }
+]

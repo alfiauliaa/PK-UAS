@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+transformers
+torch
+nltk
+requests
+beautifulsoup4
+pdfminer.six

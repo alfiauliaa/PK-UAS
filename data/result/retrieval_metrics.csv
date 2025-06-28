@@ -1,0 +1,6 @@
+query,precision,recall,f1_score
+Terdakwa menyimpan uang palsu dan membelanjakan di warung,0.2,1.0,0.33333305555578707
+Penggandaan uang palsu yang ditemukan dalam koper hitam,0.2,1.0,0.33333305555578707
+Pemalsuan uang dan penyebaran di pasar tradisional,0.2,1.0,0.33333305555578707
+Penangkapan terdakwa yang menyimpan lembaran palsu,0.2,1.0,0.33333305555578707
+Kasus pemalsuan uang yang didistribusikan lewat ojek,0.2,1.0,0.33333305555578707

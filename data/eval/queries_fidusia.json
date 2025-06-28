@@ -1,0 +1,20 @@
+[
+  {
+    "query": "Terdakwa menyewakan kendaraan jaminan fidusia tanpa izin",
+    "ground_truth": ["Putusan MAHKAMAH AGUNG Nomor 5415 K/Pid.Sus/2024 Tanggal 19 September 2024 —JOHN FABIO PARDOMUAN TAMBUNAN"]
+  },
+  {
+    "query": "Pengalihan objek fidusia tanpa persetujuan",
+    "ground_truth": ["Putusan MAHKAMAH AGUNG Nomor 2319 K/Pid.Sus/2024 Tanggal 14 Juni 2024 —PENUNTUT UMUM pada KEJAKSAAN NEGERI KOTA SUKABUMI"]
+  },
+  {
+    "query": "Terdakwa terbukti menyewakan mobil yang dijaminkan",
+    "ground_truth": ["Putusan MAHKAMAH AGUNG Nomor 2354 K/Pid.Sus/2024 Tanggal 6 Mei 2024 —2354 K/Pid.Sus/2024"]
+  },
+  {
+  "query": "Terdakwa menggadaikan motor kredit yang masih terikat fidusia",
+  "ground_truth": ["Putusan MAHKAMAH AGUNG Nomor 2319 K/Pid.Sus/2024 ..."]
+}
+
+
+]
